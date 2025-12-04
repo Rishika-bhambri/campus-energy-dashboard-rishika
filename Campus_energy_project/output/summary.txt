@@ -1,0 +1,8 @@
+--- CAMPUS ENERGY EXECUTIVE SUMMARY ---
+Total Campus Consumption: 198.80 kWh
+Highest Consuming Building: Building_Library (198.80 kWh)
+
+Building-wise Breakdown:
+                  mean   min   max    sum
+Building_Name                            
+Building_Library  49.7  45.2  55.1  198.8
